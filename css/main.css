@@ -1,13 +1,10 @@
 /*  LAYOUT */
-body {
-  background: grey;
-}
-
 section {
   height: 80vh;
   overflow:hidden;
 
 }
+
 footer {
   height: 20vh;
    text-align: center;
@@ -44,4 +41,24 @@ footer a {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: white;
+}
+
+/* THEME  */
+
+body {
+  background: grey;
+  color:white;
+}
+
+header {
+  background: yellow;
+}
+
+section {
+  background: #607d8b;
+
+}
+
+footer {
+  background: grey;
 }
