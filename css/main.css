@@ -1,3 +1,22 @@
+/*  LAYOUT */
 body {
   background: grey;
+  font-size: 18px;
+}
+
+section {
+  height: 80vh;
+  overflow:hidden;
+
+}
+footer {
+  height: 20vh;
+   text-align: center;
+   overflow:hidden;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  padding: 2em;
 }
