@@ -42,7 +42,10 @@ footer a {
   letter-spacing: 0.05em;
   color: white;
 }
-
+section a {
+  font-weight: 700;
+  color: white;
+}
 /* THEME  */
 
 body {
