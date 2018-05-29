@@ -1,14 +1,19 @@
 /*  LAYOUT */
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
 section {
-  height: 80vh;
   overflow:hidden;
+  flex:1;
 
 }
 
 footer {
-  height: 20vh;
    text-align: center;
    overflow:hidden;
+   flex:initial;
 }
 h1 {
   text-align: center;
@@ -19,7 +24,6 @@ h1 {
 
 /* TYPOGRAPHY */
 
-body,
 html {
   font-family: 'Montserrat', sans-serif;
   font-size: calc(13px + 1vw);
@@ -29,17 +33,16 @@ h1 {
   font-size: 2rem;
 }
 p {
-  text-align: left;
-  line-height: 1.5;
+  /* line-height: 1.5; */
 }
 
 footer a {
   font-weight: 700;
-  font-size: 0.8em;
+  font-size: 0.8rem;
   padding: 1vw 2vw;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.05rem;
   color: white;
 }
 section a {
@@ -49,7 +52,7 @@ section a {
 /* THEME  */
 
 body {
-  background: grey;
+  background: black;
   color:white;
 }
 
