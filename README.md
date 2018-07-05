@@ -23,7 +23,7 @@ Utiliza tus conocimientos de HTML, CSS y GIT para **crear** tu página personal 
 
 ## Inpiración
 
-Este repositorio es una web personal que desarrollamos en clase. Os puede servir como inspiración o como punto de partida.
+Este repositorio es una web personal que desarrollamos en clase. Os puede servir como inspiración o como punto de partida. El resultado [aquí](https://geekshubsacademy.github.io/Actividad-pagina-personal/)
 
 Un ejemplo más cuidado es mi propia web personal: [http://jupegarnica.com](http://jupegarnica.com)
 
