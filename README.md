@@ -19,7 +19,7 @@ Utiliza tus conocimientos de HTML, CSS y GIT para **crear** tu página personal 
 - **LAYOUT CREATION** Crea la estructura de la página con CSS.  Por ejemplo:  Header + section + footer o Section + sidebar .
 - **CONTENT CREATION** Añade el contenido a tu página como texto, titulares (headlines), imagenes y/o backgrounds. Tu decides!
 - **STYLE CREATION** Genera tu propio estilo! no olvides inspirarte buscando otra web de desarrolladores.
-- **PUBLISH** Puedes publicar tu web estática con Github Pages.  Puedes aprender como se hace [aquí](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+- **PUBLISH** Puedes publicar tu web estática gratuitamente con Github Pages.  Puedes aprender como se hace [aquí](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 ## Inpiración
 
